@@ -1,6 +1,7 @@
 package ma.emsi.pokemon;
 
 import androidx.appcompat.app.AppCompatActivity;
+import android.app.Fragment;
 
 import android.os.Bundle;
 
